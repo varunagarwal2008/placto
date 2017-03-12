@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Codeshastra</string>
+    <string name="entercity">Enter city</string>
+    <string name="getweather">Get Weather</string>
+    <string name="qrscanner">QR Scanner</string>
+    <string name="all">All</string>
+    <string name="bajra">Bajra</string>
+    <string name="barley">Barley</string>
+    <string name="corn">Corn</string>
+    <string name="garlic">Garlic</string>
+    <string name="greenpeas">Green Peas</string>
+    <string name="oat">Oat</string>
+    <string name="onion">Onion</string>
+    <string name="potato">Potato</string>
+    <string name="rice">Rice</string>
+    <string name="tomato">Tomato</string>
+    <string name="wheat">Wheat</string>
+
+
+</resources>
